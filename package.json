@@ -1,0 +1,24 @@
+{
+  "name": "simple-scrollspy",
+  "version": "1.0.0",
+  "description": "ScrollSpy effect for website.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "git repository: git@github.com:huukimit/simple-scrollspy.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/huukimit/simple-scrollspy.git"
+  },
+  "keywords": [
+    "ScrollSpy",
+    "Javascript",
+    "umd"
+  ],
+  "author": "Nguyen Huu Kim <kimnguyen.ict@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huukimit/simple-scrollspy/issues"
+  },
+  "homepage": "https://github.com/huukimit/simple-scrollspy#readme"
+}
